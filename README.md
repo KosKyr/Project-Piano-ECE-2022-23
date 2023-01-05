@@ -10,8 +10,7 @@ Creators’ emails:
 4)Bougas Antonis : bougasantonisath@gmail.com 
 
 Installment:
-Download the file named  ” Project Piano ECE 2022-2023”
-Unzip the file mentioned above in a single folder
+Download main.py, project.py and the images folder. Then execute the main.py. The images folder must be in the same directory as the other two .py files
 Use:
 Open the app by double right clicking the file named  “Project ECE”
 To gain access to the ‘piano’ type GUI by right clicking the word ‘play’ in the app’s main menu
@@ -34,8 +33,9 @@ through which you can control two parameters: the command for playing sound
 
 
 Εγκατάσταση :
-Κατεβάστε το αρχείο με τίτλο : ” Project Piano ECE 2022-2023”
-Κάντε αποσυμπίεση (unzip) το αρχέιο σε έναν ενιαίο φάκελο
+Κατεβάστε το αρχεία main.py, project.py και τον φάκελο images. Ύστερα εκτελείτε το main.py. Ο φάκελος με τις φωτογραφίες πρέπει να βρίσκεται στην ίδια τοποθεσία με τα 
+άλλα δύο αρχεία .py .
+
 Χρήση:
 Ανοίξτε την εφαρμογή κάνοντας διπλό δεξί κλικ στο αρχείο με τίτλο: “Project ECE”
 Για να αποκτήσετε πρόσβαση στο γραφικό περιβάλλον τύπου ‘πιάνο’ κάντε δεξί κλικ στη λέξη ‘play’ στο κύριο μενού της εφαρμογής
