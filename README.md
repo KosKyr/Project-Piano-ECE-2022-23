@@ -7,7 +7,7 @@ Creators’ emails:
 1) Kamari Eirilena : eirilenakam@gmail.com
 2) Kiminas Nikolaos : nikoskiminas8@gmail.com
 3) Kyriakopoulos Konstantinos Fotios : taskos023@gmail.com
-4)Bougas Antonis : bougasantonisath@gmail.com 
+4) Bougas Antonis : bougasantonisath@gmail.com 
 
 Installment:
 Download main.py, project.py and the images folder. Then execute the main.py. The images folder must be in the same directory as the other two .py files
